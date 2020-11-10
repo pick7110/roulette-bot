@@ -1,3 +1,5 @@
 API_TOKEN = "xoxb-1513889596080-1503121676337-u4O70xrPlquinrvrQb7eWt00"
+
 DEFAULT_REPLY = "何やて？"
+
 PLUGINS = ['plugins']

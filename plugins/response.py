@@ -18,7 +18,7 @@ def response_3(message):
 
 @respond_to("roulette")
 def response_1(message):
-    res_list = ['山田','川田','スズキ']
+    res_list = ['山田','川田','スズキ','モリヤマ']
     message.reply(random.choice(res_list))
     
     
