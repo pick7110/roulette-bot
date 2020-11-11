@@ -1,5 +1,5 @@
-API_TOKEN = "xoxb-1513889596080-1503121676337-u4O70xrPlquinrvrQb7eWt00"
-
+import os
+API_TOKEN = os.getenv('HUBOT_SLACK_TOKEN')
+print(API_TOKEN)
 DEFAULT_REPLY = "何やて？"
-
 PLUGINS = ['plugins']
